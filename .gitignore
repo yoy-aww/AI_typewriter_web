@@ -14,6 +14,8 @@
 
 # production
 /build
+/typewriter
+*.zip
 
 # misc
 .DS_Store
